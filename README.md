@@ -13,3 +13,6 @@ https://github.com/javaee-samples/javaee7-samples
 
 Java EE 7 Tutorial:
 http://docs.oracle.com/javaee/7/tutorial/doc/home.htm
+
+CDI Spec:
+http://cdi-spec.org/
