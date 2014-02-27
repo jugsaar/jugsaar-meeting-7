@@ -1,7 +1,8 @@
 jugsaar-meeting-7
 =================
 
-Slides: Java EE 7: Boosting Productivity and Embracing HTML5 by Arun Gupta 
+Slides: Java EE 7: Boosting Productivity and Embracing HTML5 
+by Arun Gupta 
 http://www.slideshare.net/arungupta1/java-ee7-1hour
 
 Java EE 7 Petstore:
